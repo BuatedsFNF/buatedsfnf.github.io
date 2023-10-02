@@ -1,4 +1,4 @@
-your ip has been logged
+your ip has been logged and you cant undo it
 there's nothing of the chart left
 die
 
